@@ -18,10 +18,6 @@ const navLinks = [
     display:"Find a doctor"
   },
   {
-    path:"/about",
-    display:"About"
-  },
-  {
     path:"/contact",
     display:"Contact"
   }
